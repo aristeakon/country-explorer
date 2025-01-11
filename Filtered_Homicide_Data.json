@@ -1,0 +1,378 @@
+[
+    {
+        "country": "Albania",
+        "homicide_rate": 1.6535782
+    },
+    {
+        "country": "Algeria",
+        "homicide_rate": 1.7704742
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "homicide_rate": 10.665188
+    },
+    {
+        "country": "Argentina",
+        "homicide_rate": 4.3089128
+    },
+    {
+        "country": "Australia",
+        "homicide_rate": 0.832779
+    },
+    {
+        "country": "Austria",
+        "homicide_rate": 0.88370675
+    },
+    {
+        "country": "Azerbaijan",
+        "homicide_rate": 2.3653047
+    },
+    {
+        "country": "Bahamas",
+        "homicide_rate": 31.22073
+    },
+    {
+        "country": "Bahrain",
+        "homicide_rate": 0.2037721
+    },
+    {
+        "country": "Barbados",
+        "homicide_rate": 15.267989
+    },
+    {
+        "country": "Belize",
+        "homicide_rate": 27.882475
+    },
+    {
+        "country": "Bolivia",
+        "homicide_rate": 3.967569
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "homicide_rate": 1.0824096
+    },
+    {
+        "country": "Brazil",
+        "homicide_rate": 20.605768
+    },
+    {
+        "country": "Bulgaria",
+        "homicide_rate": 1.1206212
+    },
+    {
+        "country": "Canada",
+        "homicide_rate": 2.2728262
+    },
+    {
+        "country": "Chile",
+        "homicide_rate": 6.7436137
+    },
+    {
+        "country": "Colombia",
+        "homicide_rate": 25.26891
+    },
+    {
+        "country": "Costa Rica",
+        "homicide_rate": 12.662066
+    },
+    {
+        "country": "Croatia",
+        "homicide_rate": 0.76916254
+    },
+    {
+        "country": "Cyprus",
+        "homicide_rate": 0.6392388
+    },
+    {
+        "country": "Czechia",
+        "homicide_rate": 0.83857554
+    },
+    {
+        "country": "Denmark",
+        "homicide_rate": 0.9860153
+    },
+    {
+        "country": "Dominica",
+        "homicide_rate": 26.121326
+    },
+    {
+        "country": "Dominican Republic",
+        "homicide_rate": 12.369954
+    },
+    {
+        "country": "Ecuador",
+        "homicide_rate": 26.992945
+    },
+    {
+        "country": "El Salvador",
+        "homicide_rate": 7.8277984
+    },
+    {
+        "country": "Estonia",
+        "homicide_rate": 1.5082251
+    },
+    {
+        "country": "Finland",
+        "homicide_rate": 1.2453198
+    },
+    {
+        "country": "France",
+        "homicide_rate": 1.2703742
+    },
+    {
+        "country": "Germany",
+        "homicide_rate": 0.8228395
+    },
+    {
+        "country": "Ghana",
+        "homicide_rate": 1.8132464
+    },
+    {
+        "country": "Greece",
+        "homicide_rate": 1.126628
+    },
+    {
+        "country": "Grenada",
+        "homicide_rate": 6.377678
+    },
+    {
+        "country": "Guyana",
+        "homicide_rate": 16.198326
+    },
+    {
+        "country": "Haiti",
+        "homicide_rate": 18.84334
+    },
+    {
+        "country": "Honduras",
+        "homicide_rate": 35.07188
+    },
+    {
+        "country": "Hungary",
+        "homicide_rate": 0.97318155
+    },
+    {
+        "country": "Iceland",
+        "homicide_rate": 1.072678
+    },
+    {
+        "country": "India",
+        "homicide_rate": 2.8316934
+    },
+    {
+        "country": "Indonesia",
+        "homicide_rate": 0.30743954
+    },
+    {
+        "country": "Ireland",
+        "homicide_rate": 0.8759516
+    },
+    {
+        "country": "Israel",
+        "homicide_rate": 1.6264105
+    },
+    {
+        "country": "Italy",
+        "homicide_rate": 0.5454163
+    },
+    {
+        "country": "Jamaica",
+        "homicide_rate": 53.335655
+    },
+    {
+        "country": "Japan",
+        "homicide_rate": 0.23315535
+    },
+    {
+        "country": "Jordan",
+        "homicide_rate": 1.1164404
+    },
+    {
+        "country": "Kazakhstan",
+        "homicide_rate": 2.6342924
+    },
+    {
+        "country": "Kenya",
+        "homicide_rate": 4.8919544
+    },
+    {
+        "country": "Latvia",
+        "homicide_rate": 3.6203477
+    },
+    {
+        "country": "Lithuania",
+        "homicide_rate": 2.4363148
+    },
+    {
+        "country": "Luxembourg",
+        "homicide_rate": 1.5441655
+    },
+    {
+        "country": "Malta",
+        "homicide_rate": 1.5001332
+    },
+    {
+        "country": "Mauritius",
+        "homicide_rate": 2.2316809
+    },
+    {
+        "country": "Mexico",
+        "homicide_rate": 26.106606
+    },
+    {
+        "country": "Moldova",
+        "homicide_rate": 2.2914784
+    },
+    {
+        "country": "Mongolia",
+        "homicide_rate": 5.944033
+    },
+    {
+        "country": "Montenegro",
+        "homicide_rate": 2.5514984
+    },
+    {
+        "country": "Morocco",
+        "homicide_rate": 1.6498492
+    },
+    {
+        "country": "Myanmar",
+        "homicide_rate": 3.872327
+    },
+    {
+        "country": "Netherlands",
+        "homicide_rate": 0.8084712
+    },
+    {
+        "country": "North Macedonia",
+        "homicide_rate": 0.8597637
+    },
+    {
+        "country": "Norway",
+        "homicide_rate": 0.5520471
+    },
+    {
+        "country": "Oman",
+        "homicide_rate": 0.26222068
+    },
+    {
+        "country": "Pakistan",
+        "homicide_rate": 4.2137203
+    },
+    {
+        "country": "Palestine",
+        "homicide_rate": 1.4095045
+    },
+    {
+        "country": "Panama",
+        "homicide_rate": 11.318836
+    },
+    {
+        "country": "Paraguay",
+        "homicide_rate": 6.960888
+    },
+    {
+        "country": "Poland",
+        "homicide_rate": 0.6774193
+    },
+    {
+        "country": "Puerto Rico",
+        "homicide_rate": 17.586975
+    },
+    {
+        "country": "Qatar",
+        "homicide_rate": 0.07420814
+    },
+    {
+        "country": "Romania",
+        "homicide_rate": 1.256405
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "homicide_rate": 23.081362
+    },
+    {
+        "country": "Saint Lucia",
+        "homicide_rate": 36.695717
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "homicide_rate": 40.405014
+    },
+    {
+        "country": "Serbia",
+        "homicide_rate": 1.024737
+    },
+    {
+        "country": "Seychelles",
+        "homicide_rate": 9.335456
+    },
+    {
+        "country": "Singapore",
+        "homicide_rate": 0.117141314
+    },
+    {
+        "country": "Slovakia",
+        "homicide_rate": 0.7442252
+    },
+    {
+        "country": "Slovenia",
+        "homicide_rate": 0.6132527
+    },
+    {
+        "country": "South Africa",
+        "homicide_rate": 45.533863
+    },
+    {
+        "country": "South Korea",
+        "homicide_rate": 0.5307261
+    },
+    {
+        "country": "Spain",
+        "homicide_rate": 0.6097737
+    },
+    {
+        "country": "Suriname",
+        "homicide_rate": 7.2810764
+    },
+    {
+        "country": "Sweden",
+        "homicide_rate": 1.0995941
+    },
+    {
+        "country": "Switzerland",
+        "homicide_rate": 0.48052326
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "homicide_rate": 39.515507
+    },
+    {
+        "country": "Turkey",
+        "homicide_rate": 2.6704557
+    },
+    {
+        "country": "Uganda",
+        "homicide_rate": 8.768331
+    },
+    {
+        "country": "United Arab Emirates",
+        "homicide_rate": 0.75202876
+    },
+    {
+        "country": "United States",
+        "homicide_rate": 6.383188
+    },
+    {
+        "country": "Uruguay",
+        "homicide_rate": 11.189691
+    },
+    {
+        "country": "Venezuela",
+        "homicide_rate": 12.607018
+    },
+    {
+        "country": "Zimbabwe",
+        "homicide_rate": 6.654193
+    }
+]

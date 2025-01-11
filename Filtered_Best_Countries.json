@@ -1,0 +1,524 @@
+[
+    {
+        "Country": "Switzerland",
+        "Quality of Life": 6,
+        "Adventure": 13,
+        "Heritage": 23
+    },
+    {
+        "Country": "Canada",
+        "Quality of Life": 3,
+        "Adventure": 20,
+        "Heritage": 28
+    },
+    {
+        "Country": "Sweden",
+        "Quality of Life": 1,
+        "Adventure": 24,
+        "Heritage": 44
+    },
+    {
+        "Country": "Australia",
+        "Quality of Life": 8,
+        "Adventure": 8,
+        "Heritage": 19
+    },
+    {
+        "Country": "United States",
+        "Quality of Life": 23,
+        "Adventure": 33,
+        "Heritage": 21
+    },
+    {
+        "Country": "Japan",
+        "Quality of Life": 14,
+        "Adventure": 30,
+        "Heritage": 6
+    },
+    {
+        "Country": "Germany",
+        "Quality of Life": 9,
+        "Adventure": 43,
+        "Heritage": 20
+    },
+    {
+        "Country": "New Zealand",
+        "Quality of Life": 10,
+        "Adventure": 7,
+        "Heritage": 26
+    },
+    {
+        "Country": "United Kingdom",
+        "Quality of Life": 13,
+        "Adventure": 38,
+        "Heritage": 15
+    },
+    {
+        "Country": "Netherlands",
+        "Quality of Life": 7,
+        "Adventure": 15,
+        "Heritage": 27
+    },
+    {
+        "Country": "Norway",
+        "Quality of Life": 2,
+        "Adventure": 23,
+        "Heritage": 34
+    },
+    {
+        "Country": "France",
+        "Quality of Life": 17,
+        "Adventure": 11,
+        "Heritage": 4
+    },
+    {
+        "Country": "Denmark",
+        "Quality of Life": 4,
+        "Adventure": 28,
+        "Heritage": 35
+    },
+    {
+        "Country": "Finland",
+        "Quality of Life": 5,
+        "Adventure": 27,
+        "Heritage": 50
+    },
+    {
+        "Country": "Italy",
+        "Quality of Life": 20,
+        "Adventure": 2,
+        "Heritage": 1
+    },
+    {
+        "Country": "Singapore",
+        "Quality of Life": 21,
+        "Adventure": 16,
+        "Heritage": 32
+    },
+    {
+        "Country": "Spain",
+        "Quality of Life": 18,
+        "Adventure": 4,
+        "Heritage": 3
+    },
+    {
+        "Country": "Belgium",
+        "Quality of Life": 11,
+        "Adventure": 36,
+        "Heritage": 42
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Quality of Life": 26,
+        "Adventure": 48,
+        "Heritage": 53
+    },
+    {
+        "Country": "China",
+        "Quality of Life": 25,
+        "Adventure": 61,
+        "Heritage": 13
+    },
+    {
+        "Country": "South Korea",
+        "Quality of Life": 24,
+        "Adventure": 54,
+        "Heritage": 31
+    },
+    {
+        "Country": "Austria",
+        "Quality of Life": 12,
+        "Adventure": 17,
+        "Heritage": 18
+    },
+    {
+        "Country": "Ireland",
+        "Quality of Life": 15,
+        "Adventure": 14,
+        "Heritage": 17
+    },
+    {
+        "Country": "Luxembourg",
+        "Quality of Life": 16,
+        "Adventure": 46,
+        "Heritage": 60
+    },
+    {
+        "Country": "Portugal",
+        "Quality of Life": 19,
+        "Adventure": 6,
+        "Heritage": 11
+    },
+    {
+        "Country": "Qatar",
+        "Quality of Life": 27,
+        "Adventure": 57,
+        "Heritage": 67
+    },
+    {
+        "Country": "Greece",
+        "Quality of Life": 28,
+        "Adventure": 3,
+        "Heritage": 2
+    },
+    {
+        "Country": "Brazil",
+        "Quality of Life": 46,
+        "Adventure": 1,
+        "Heritage": 12
+    },
+    {
+        "Country": "Thailand",
+        "Quality of Life": 34,
+        "Adventure": 5,
+        "Heritage": 9
+    },
+    {
+        "Country": "India",
+        "Quality of Life": 39,
+        "Adventure": 53,
+        "Heritage": 10
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Quality of Life": 30,
+        "Adventure": 75,
+        "Heritage": 51
+    },
+    {
+        "Country": "Turkey",
+        "Quality of Life": 32,
+        "Adventure": 19,
+        "Heritage": 8
+    },
+    {
+        "Country": "Mexico",
+        "Quality of Life": 41,
+        "Adventure": 9,
+        "Heritage": 5
+    },
+    {
+        "Country": "Egypt",
+        "Quality of Life": 52,
+        "Adventure": 25,
+        "Heritage": 7
+    },
+    {
+        "Country": "Poland",
+        "Quality of Life": 22,
+        "Adventure": 41,
+        "Heritage": 30
+    },
+    {
+        "Country": "Israel",
+        "Quality of Life": 43,
+        "Adventure": 67,
+        "Heritage": 37
+    },
+    {
+        "Country": "Russia",
+        "Quality of Life": 51,
+        "Adventure": 79,
+        "Heritage": 43
+    },
+    {
+        "Country": "Malaysia",
+        "Quality of Life": 31,
+        "Adventure": 31,
+        "Heritage": 33
+    },
+    {
+        "Country": "Argentina",
+        "Quality of Life": 44,
+        "Adventure": 12,
+        "Heritage": 16
+    },
+    {
+        "Country": "Morocco",
+        "Quality of Life": 48,
+        "Adventure": 21,
+        "Heritage": 14
+    },
+    {
+        "Country": "Indonesia",
+        "Quality of Life": 38,
+        "Adventure": 34,
+        "Heritage": 22
+    },
+    {
+        "Country": "Costa Rica",
+        "Quality of Life": 50,
+        "Adventure": 10,
+        "Heritage": 45
+    },
+    {
+        "Country": "Philippines",
+        "Quality of Life": 37,
+        "Adventure": 22,
+        "Heritage": 36
+    },
+    {
+        "Country": "Vietnam",
+        "Quality of Life": 36,
+        "Adventure": 42,
+        "Heritage": 29
+    },
+    {
+        "Country": "Croatia",
+        "Quality of Life": 33,
+        "Adventure": 29,
+        "Heritage": 41
+    },
+    {
+        "Country": "South Africa",
+        "Quality of Life": 55,
+        "Adventure": 35,
+        "Heritage": 24
+    },
+    {
+        "Country": "Cyprus",
+        "Quality of Life": 54,
+        "Adventure": 26,
+        "Heritage": 49
+    },
+    {
+        "Country": "Czechia",
+        "Quality of Life": 29,
+        "Adventure": 50,
+        "Heritage": 48
+    },
+    {
+        "Country": "Hungary",
+        "Quality of Life": 35,
+        "Adventure": 52,
+        "Heritage": 39
+    },
+    {
+        "Country": "Peru",
+        "Quality of Life": 62,
+        "Adventure": 32,
+        "Heritage": 25
+    },
+    {
+        "Country": "Chile",
+        "Quality of Life": 53,
+        "Adventure": 37,
+        "Heritage": 38
+    },
+    {
+        "Country": "Panama",
+        "Quality of Life": 71,
+        "Adventure": 39,
+        "Heritage": 62
+    },
+    {
+        "Country": "Dominican Republic",
+        "Quality of Life": 61,
+        "Adventure": 18,
+        "Heritage": 56
+    },
+    {
+        "Country": "Sri Lanka",
+        "Quality of Life": 66,
+        "Adventure": 44,
+        "Heritage": 54
+    },
+    {
+        "Country": "Romania",
+        "Quality of Life": 40,
+        "Adventure": 47,
+        "Heritage": 46
+    },
+    {
+        "Country": "Estonia",
+        "Quality of Life": 45,
+        "Adventure": 65,
+        "Heritage": 68
+    },
+    {
+        "Country": "Uruguay",
+        "Quality of Life": 60,
+        "Adventure": 51,
+        "Heritage": 63
+    },
+    {
+        "Country": "Bahrain",
+        "Quality of Life": 59,
+        "Adventure": 81,
+        "Heritage": 85
+    },
+    {
+        "Country": "Kenya",
+        "Quality of Life": 70,
+        "Adventure": 56,
+        "Heritage": 57
+    },
+    {
+        "Country": "Colombia",
+        "Quality of Life": 67,
+        "Adventure": 40,
+        "Heritage": 40
+    },
+    {
+        "Country": "Bulgaria",
+        "Quality of Life": 42,
+        "Adventure": 55,
+        "Heritage": 58
+    },
+    {
+        "Country": "Lithuania",
+        "Quality of Life": 57,
+        "Adventure": 71,
+        "Heritage": 76
+    },
+    {
+        "Country": "Slovakia",
+        "Quality of Life": 47,
+        "Adventure": 66,
+        "Heritage": 64
+    },
+    {
+        "Country": "Cambodia",
+        "Quality of Life": 56,
+        "Adventure": 63,
+        "Heritage": 55
+    },
+    {
+        "Country": "Oman",
+        "Quality of Life": 65,
+        "Adventure": 80,
+        "Heritage": 72
+    },
+    {
+        "Country": "Slovenia",
+        "Quality of Life": 49,
+        "Adventure": 62,
+        "Heritage": 65
+    },
+    {
+        "Country": "Jordan",
+        "Quality of Life": 68,
+        "Adventure": 60,
+        "Heritage": 47
+    },
+    {
+        "Country": "Ukraine",
+        "Quality of Life": 87,
+        "Adventure": 85,
+        "Heritage": 81
+    },
+    {
+        "Country": "Bangladesh",
+        "Quality of Life": 58,
+        "Adventure": 82,
+        "Heritage": 82
+    },
+    {
+        "Country": "Tunisia",
+        "Quality of Life": 64,
+        "Adventure": 49,
+        "Heritage": 52
+    },
+    {
+        "Country": "Ecuador",
+        "Quality of Life": 69,
+        "Adventure": 45,
+        "Heritage": 61
+    },
+    {
+        "Country": "Latvia",
+        "Quality of Life": 63,
+        "Adventure": 68,
+        "Heritage": 73
+    },
+    {
+        "Country": "Ghana",
+        "Quality of Life": 72,
+        "Adventure": 73,
+        "Heritage": 84
+    },
+    {
+        "Country": "El Salvador",
+        "Quality of Life": 77,
+        "Adventure": 58,
+        "Heritage": 71
+    },
+    {
+        "Country": "Guatemala",
+        "Quality of Life": 74,
+        "Adventure": 59,
+        "Heritage": 69
+    },
+    {
+        "Country": "Zimbabwe",
+        "Quality of Life": 78,
+        "Adventure": 74,
+        "Heritage": 75
+    },
+    {
+        "Country": "Azerbaijan",
+        "Quality of Life": 82,
+        "Adventure": 72,
+        "Heritage": 80
+    },
+    {
+        "Country": "Cameroon",
+        "Quality of Life": 76,
+        "Adventure": 70,
+        "Heritage": 79
+    },
+    {
+        "Country": "Algeria",
+        "Quality of Life": 79,
+        "Adventure": 78,
+        "Heritage": 70
+    },
+    {
+        "Country": "Myanmar",
+        "Quality of Life": 75,
+        "Adventure": 76,
+        "Heritage": 77
+    },
+    {
+        "Country": "Honduras",
+        "Quality of Life": 80,
+        "Adventure": 64,
+        "Heritage": 78
+    },
+    {
+        "Country": "Serbia",
+        "Quality of Life": 73,
+        "Adventure": 77,
+        "Heritage": 66
+    },
+    {
+        "Country": "Uzbekistan",
+        "Quality of Life": 83,
+        "Adventure": 83,
+        "Heritage": 86
+    },
+    {
+        "Country": "Kazakhstan",
+        "Quality of Life": 81,
+        "Adventure": 86,
+        "Heritage": 83
+    },
+    {
+        "Country": "Lebanon",
+        "Quality of Life": 85,
+        "Adventure": 69,
+        "Heritage": 59
+    },
+    {
+        "Country": "Belarus",
+        "Quality of Life": 84,
+        "Adventure": 84,
+        "Heritage": 87
+    },
+    {
+        "Country": "Iran",
+        "Quality of Life": 86,
+        "Adventure": 87,
+        "Heritage": 74
+    }
+]

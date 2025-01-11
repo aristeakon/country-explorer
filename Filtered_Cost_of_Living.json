@@ -1,0 +1,607 @@
+[
+    {
+        "Country": "Switzerland",
+        "Cost of Living Index": 101.1,
+        "Restaurant Price Index": 97.0
+    },
+    {
+        "Country": "Bahamas",
+        "Cost of Living Index": 85.0,
+        "Restaurant Price Index": 83.3
+    },
+    {
+        "Country": "Iceland",
+        "Cost of Living Index": 83.0,
+        "Restaurant Price Index": 86.8
+    },
+    {
+        "Country": "Singapore",
+        "Cost of Living Index": 76.7,
+        "Restaurant Price Index": 50.4
+    },
+    {
+        "Country": "Barbados",
+        "Cost of Living Index": 76.6,
+        "Restaurant Price Index": 69.4
+    },
+    {
+        "Country": "Norway",
+        "Cost of Living Index": 76.0,
+        "Restaurant Price Index": 73.5
+    },
+    {
+        "Country": "Denmark",
+        "Cost of Living Index": 72.3,
+        "Restaurant Price Index": 81.3
+    },
+    {
+        "Country": "Hong Kong (China)",
+        "Cost of Living Index": 70.8,
+        "Restaurant Price Index": 46.2
+    },
+    {
+        "Country": "United States",
+        "Cost of Living Index": 70.4,
+        "Restaurant Price Index": 67.2
+    },
+    {
+        "Country": "Australia",
+        "Cost of Living Index": 70.2,
+        "Restaurant Price Index": 62.5
+    },
+    {
+        "Country": "Austria",
+        "Cost of Living Index": 65.1,
+        "Restaurant Price Index": 59.3
+    },
+    {
+        "Country": "Canada",
+        "Cost of Living Index": 64.8,
+        "Restaurant Price Index": 61.7
+    },
+    {
+        "Country": "New Zealand",
+        "Cost of Living Index": 64.6,
+        "Restaurant Price Index": 57.1
+    },
+    {
+        "Country": "Ireland",
+        "Cost of Living Index": 64.4,
+        "Restaurant Price Index": 65.3
+    },
+    {
+        "Country": "France",
+        "Cost of Living Index": 63.7,
+        "Restaurant Price Index": 56.3
+    },
+    {
+        "Country": "Puerto Rico",
+        "Cost of Living Index": 63.3,
+        "Restaurant Price Index": 53.1
+    },
+    {
+        "Country": "Finland",
+        "Cost of Living Index": 63.2,
+        "Restaurant Price Index": 63.6
+    },
+    {
+        "Country": "Netherlands",
+        "Cost of Living Index": 63.1,
+        "Restaurant Price Index": 61.2
+    },
+    {
+        "Country": "Israel",
+        "Cost of Living Index": 62.7,
+        "Restaurant Price Index": 68.0
+    },
+    {
+        "Country": "Luxembourg",
+        "Cost of Living Index": 62.4,
+        "Restaurant Price Index": 68.7
+    },
+    {
+        "Country": "Germany",
+        "Cost of Living Index": 62.2,
+        "Restaurant Price Index": 52.8
+    },
+    {
+        "Country": "United Kingdom",
+        "Cost of Living Index": 62.0,
+        "Restaurant Price Index": 62.7
+    },
+    {
+        "Country": "Belgium",
+        "Cost of Living Index": 61.1,
+        "Restaurant Price Index": 66.0
+    },
+    {
+        "Country": "South Korea",
+        "Cost of Living Index": 60.1,
+        "Restaurant Price Index": 31.4
+    },
+    {
+        "Country": "Sweden",
+        "Cost of Living Index": 59.3,
+        "Restaurant Price Index": 54.7
+    },
+    {
+        "Country": "Italy",
+        "Cost of Living Index": 56.2,
+        "Restaurant Price Index": 53.3
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Cost of Living Index": 55.8,
+        "Restaurant Price Index": 49.2
+    },
+    {
+        "Country": "Cyprus",
+        "Cost of Living Index": 54.7,
+        "Restaurant Price Index": 53.2
+    },
+    {
+        "Country": "Uruguay",
+        "Cost of Living Index": 54.1,
+        "Restaurant Price Index": 50.2
+    },
+    {
+        "Country": "Jamaica",
+        "Cost of Living Index": 53.9,
+        "Restaurant Price Index": 38.8
+    },
+    {
+        "Country": "Malta",
+        "Cost of Living Index": 52.8,
+        "Restaurant Price Index": 56.2
+    },
+    {
+        "Country": "Trinidad And Tobago",
+        "Cost of Living Index": 52.6,
+        "Restaurant Price Index": 43.9
+    },
+    {
+        "Country": "Costa Rica",
+        "Cost of Living Index": 52.3,
+        "Restaurant Price Index": 43.1
+    },
+    {
+        "Country": "Bahrain",
+        "Cost of Living Index": 52.3,
+        "Restaurant Price Index": 44.7
+    },
+    {
+        "Country": "Greece",
+        "Cost of Living Index": 52.0,
+        "Restaurant Price Index": 51.3
+    },
+    {
+        "Country": "Estonia",
+        "Cost of Living Index": 52.0,
+        "Restaurant Price Index": 50.6
+    },
+    {
+        "Country": "Qatar",
+        "Cost of Living Index": 51.3,
+        "Restaurant Price Index": 47.2
+    },
+    {
+        "Country": "Slovenia",
+        "Cost of Living Index": 49.9,
+        "Restaurant Price Index": 43.4
+    },
+    {
+        "Country": "Latvia",
+        "Cost of Living Index": 49.1,
+        "Restaurant Price Index": 44.9
+    },
+    {
+        "Country": "Spain",
+        "Cost of Living Index": 47.3,
+        "Restaurant Price Index": 44.1
+    },
+    {
+        "Country": "Lithuania",
+        "Cost of Living Index": 47.1,
+        "Restaurant Price Index": 43.5
+    },
+    {
+        "Country": "Slovakia",
+        "Cost of Living Index": 46.7,
+        "Restaurant Price Index": 34.5
+    },
+    {
+        "Country": "Cuba",
+        "Cost of Living Index": 46.7,
+        "Restaurant Price Index": 26.0
+    },
+    {
+        "Country": "Czech Republic",
+        "Cost of Living Index": 46.6,
+        "Restaurant Price Index": 34.1
+    },
+    {
+        "Country": "Panama",
+        "Cost of Living Index": 46.4,
+        "Restaurant Price Index": 42.2
+    },
+    {
+        "Country": "Japan",
+        "Cost of Living Index": 46.1,
+        "Restaurant Price Index": 27.8
+    },
+    {
+        "Country": "Croatia",
+        "Cost of Living Index": 45.5,
+        "Restaurant Price Index": 42.2
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Cost of Living Index": 45.3,
+        "Restaurant Price Index": 30.9
+    },
+    {
+        "Country": "Taiwan",
+        "Cost of Living Index": 45.2,
+        "Restaurant Price Index": 23.0
+    },
+    {
+        "Country": "Portugal",
+        "Cost of Living Index": 45.1,
+        "Restaurant Price Index": 36.9
+    },
+    {
+        "Country": "Oman",
+        "Cost of Living Index": 42.4,
+        "Restaurant Price Index": 33.1
+    },
+    {
+        "Country": "Kuwait",
+        "Cost of Living Index": 42.1,
+        "Restaurant Price Index": 36.4
+    },
+    {
+        "Country": "Albania",
+        "Cost of Living Index": 42.1,
+        "Restaurant Price Index": 35.7
+    },
+    {
+        "Country": "Lebanon",
+        "Cost of Living Index": 41.8,
+        "Restaurant Price Index": 37.1
+    },
+    {
+        "Country": "Hungary",
+        "Cost of Living Index": 41.7,
+        "Restaurant Price Index": 37.0
+    },
+    {
+        "Country": "Palestine",
+        "Cost of Living Index": 41.6,
+        "Restaurant Price Index": 27.4
+    },
+    {
+        "Country": "Jordan",
+        "Cost of Living Index": 41.2,
+        "Restaurant Price Index": 34.8
+    },
+    {
+        "Country": "Armenia",
+        "Cost of Living Index": 41.0,
+        "Restaurant Price Index": 38.9
+    },
+    {
+        "Country": "Poland",
+        "Cost of Living Index": 40.8,
+        "Restaurant Price Index": 35.0
+    },
+    {
+        "Country": "Mexico",
+        "Cost of Living Index": 40.2,
+        "Restaurant Price Index": 35.7
+    },
+    {
+        "Country": "El Salvador",
+        "Cost of Living Index": 39.5,
+        "Restaurant Price Index": 29.6
+    },
+    {
+        "Country": "Montenegro",
+        "Cost of Living Index": 39.4,
+        "Restaurant Price Index": 36.3
+    },
+    {
+        "Country": "Chile",
+        "Cost of Living Index": 39.1,
+        "Restaurant Price Index": 34.8
+    },
+    {
+        "Country": "Guatemala",
+        "Cost of Living Index": 38.8,
+        "Restaurant Price Index": 31.1
+    },
+    {
+        "Country": "Venezuela",
+        "Cost of Living Index": 38.3,
+        "Restaurant Price Index": 37.7
+    },
+    {
+        "Country": "Bulgaria",
+        "Cost of Living Index": 38.3,
+        "Restaurant Price Index": 34.7
+    },
+    {
+        "Country": "Dominican Republic",
+        "Cost of Living Index": 37.9,
+        "Restaurant Price Index": 33.1
+    },
+    {
+        "Country": "Serbia",
+        "Cost of Living Index": 37.7,
+        "Restaurant Price Index": 31.2
+    },
+    {
+        "Country": "Romania",
+        "Cost of Living Index": 37.5,
+        "Restaurant Price Index": 35.5
+    },
+    {
+        "Country": "Turkey",
+        "Cost of Living Index": 37.4,
+        "Restaurant Price Index": 30.7
+    },
+    {
+        "Country": "Cambodia",
+        "Cost of Living Index": 37.3,
+        "Restaurant Price Index": 22.7
+    },
+    {
+        "Country": "Cameroon",
+        "Cost of Living Index": 37.3,
+        "Restaurant Price Index": 35.3
+    },
+    {
+        "Country": "Zimbabwe",
+        "Cost of Living Index": 37.2,
+        "Restaurant Price Index": 26.7
+    },
+    {
+        "Country": "Mauritius",
+        "Cost of Living Index": 37.1,
+        "Restaurant Price Index": 26.5
+    },
+    {
+        "Country": "Fiji",
+        "Cost of Living Index": 35.4,
+        "Restaurant Price Index": 28.4
+    },
+    {
+        "Country": "Bosnia And Herzegovina",
+        "Cost of Living Index": 35.0,
+        "Restaurant Price Index": 22.4
+    },
+    {
+        "Country": "Sri Lanka",
+        "Cost of Living Index": 34.6,
+        "Restaurant Price Index": 18.5
+    },
+    {
+        "Country": "South Africa",
+        "Cost of Living Index": 34.5,
+        "Restaurant Price Index": 29.5
+    },
+    {
+        "Country": "Thailand",
+        "Cost of Living Index": 34.1,
+        "Restaurant Price Index": 18.3
+    },
+    {
+        "Country": "Moldova",
+        "Cost of Living Index": 34.0,
+        "Restaurant Price Index": 26.6
+    },
+    {
+        "Country": "Georgia",
+        "Cost of Living Index": 33.4,
+        "Restaurant Price Index": 31.6
+    },
+    {
+        "Country": "North Macedonia",
+        "Cost of Living Index": 33.0,
+        "Restaurant Price Index": 22.1
+    },
+    {
+        "Country": "Ecuador",
+        "Cost of Living Index": 32.6,
+        "Restaurant Price Index": 24.5
+    },
+    {
+        "Country": "Kazakhstan",
+        "Cost of Living Index": 31.7,
+        "Restaurant Price Index": 28.7
+    },
+    {
+        "Country": "China",
+        "Cost of Living Index": 31.7,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "Nigeria",
+        "Cost of Living Index": 31.4,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "Azerbaijan",
+        "Cost of Living Index": 31.2,
+        "Restaurant Price Index": 31.8
+    },
+    {
+        "Country": "Philippines",
+        "Cost of Living Index": 31.0,
+        "Restaurant Price Index": 16.8
+    },
+    {
+        "Country": "Russia",
+        "Cost of Living Index": 31.0,
+        "Restaurant Price Index": 28.0
+    },
+    {
+        "Country": "Ghana",
+        "Cost of Living Index": 30.9,
+        "Restaurant Price Index": 26.9
+    },
+    {
+        "Country": "Brazil",
+        "Cost of Living Index": 30.2,
+        "Restaurant Price Index": 22.6
+    },
+    {
+        "Country": "Kenya",
+        "Cost of Living Index": 30.2,
+        "Restaurant Price Index": 22.1
+    },
+    {
+        "Country": "Botswana",
+        "Cost of Living Index": 30.1,
+        "Restaurant Price Index": 22.5
+    },
+    {
+        "Country": "Malaysia",
+        "Cost of Living Index": 30.0,
+        "Restaurant Price Index": 18.9
+    },
+    {
+        "Country": "Peru",
+        "Cost of Living Index": 30.0,
+        "Restaurant Price Index": 21.3
+    },
+    {
+        "Country": "Morocco",
+        "Cost of Living Index": 29.5,
+        "Restaurant Price Index": 20.7
+    },
+    {
+        "Country": "Kosovo (Disputed Territory)",
+        "Cost of Living Index": 29.5,
+        "Restaurant Price Index": 20.6
+    },
+    {
+        "Country": "Argentina",
+        "Cost of Living Index": 29.4,
+        "Restaurant Price Index": 24.8
+    },
+    {
+        "Country": "Iraq",
+        "Cost of Living Index": 29.3,
+        "Restaurant Price Index": 20.9
+    },
+    {
+        "Country": "Uganda",
+        "Cost of Living Index": 29.1,
+        "Restaurant Price Index": 21.6
+    },
+    {
+        "Country": "Algeria",
+        "Cost of Living Index": 28.9,
+        "Restaurant Price Index": 14.0
+    },
+    {
+        "Country": "Colombia",
+        "Cost of Living Index": 28.8,
+        "Restaurant Price Index": 20.5
+    },
+    {
+        "Country": "Vietnam",
+        "Cost of Living Index": 28.7,
+        "Restaurant Price Index": 14.8
+    },
+    {
+        "Country": "Tunisia",
+        "Cost of Living Index": 28.1,
+        "Restaurant Price Index": 15.0
+    },
+    {
+        "Country": "Bolivia",
+        "Cost of Living Index": 27.6,
+        "Restaurant Price Index": 19.4
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Cost of Living Index": 27.6,
+        "Restaurant Price Index": 20.2
+    },
+    {
+        "Country": "Indonesia",
+        "Cost of Living Index": 26.7,
+        "Restaurant Price Index": 13.5
+    },
+    {
+        "Country": "Iran",
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 16.3
+    },
+    {
+        "Country": "Uzbekistan",
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 18.6
+    },
+    {
+        "Country": "Belarus",
+        "Cost of Living Index": 26.4,
+        "Restaurant Price Index": 24.9
+    },
+    {
+        "Country": "Ukraine",
+        "Cost of Living Index": 25.9,
+        "Restaurant Price Index": 20.7
+    },
+    {
+        "Country": "Nepal",
+        "Cost of Living Index": 25.5,
+        "Restaurant Price Index": 16.2
+    },
+    {
+        "Country": "Paraguay",
+        "Cost of Living Index": 25.4,
+        "Restaurant Price Index": 17.6
+    },
+    {
+        "Country": "Madagascar",
+        "Cost of Living Index": 24.5,
+        "Restaurant Price Index": 14.3
+    },
+    {
+        "Country": "Syria",
+        "Cost of Living Index": 24.0,
+        "Restaurant Price Index": 15.3
+    },
+    {
+        "Country": "Tanzania",
+        "Cost of Living Index": 23.8,
+        "Restaurant Price Index": 16.5
+    },
+    {
+        "Country": "Bangladesh",
+        "Cost of Living Index": 22.5,
+        "Restaurant Price Index": 12.8
+    },
+    {
+        "Country": "India",
+        "Cost of Living Index": 21.2,
+        "Restaurant Price Index": 15.1
+    },
+    {
+        "Country": "Egypt",
+        "Cost of Living Index": 21.0,
+        "Restaurant Price Index": 16.2
+    },
+    {
+        "Country": "Libya",
+        "Cost of Living Index": 20.4,
+        "Restaurant Price Index": 15.2
+    },
+    {
+        "Country": "Pakistan",
+        "Cost of Living Index": 18.8,
+        "Restaurant Price Index": 12.9
+    }
+]
